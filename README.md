@@ -1,5 +1,5 @@
 <div>
-  <h4><i>aspirante a desenvolvedora web</i> (●'◡'●)<h4>
+  <h4><i>aspirante a desenvolvedora front-end</i> (●'◡'●)<h4>
 </div>
 <div>
   <a href="https://github.com/adnaolivia/">
