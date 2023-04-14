@@ -1,7 +1,4 @@
 <div>
-  <h4><i>aspirante a desenvolvedora front-end</i> (●'◡'●)<h4>
-</div>
-<div>
   <a href="https://github.com/adnaolivia/">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia&layout=compact&langs_count=7&theme=panda"/>
 </div>
