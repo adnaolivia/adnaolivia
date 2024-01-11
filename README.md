@@ -1,7 +1,8 @@
 <div>
   <a href="https://github.com/adnaolivia/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia&layout=compact&langs_count=7&theme=dracula"/>
-  <!--<img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia"/>-->
+  <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia&layout=compact&langs_count=7&theme=dracula"/></p>
+  <!--<p><img height="200" src="https://github-readme-stats.vercel.app/api?username=adnaolivia&show_icons=true&locale=en" alt="adnaolivia"& /></p>-->
+  <!--<img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia"/>-->
 </div>
   <br>
 <div>
