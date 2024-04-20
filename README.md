@@ -1,7 +1,15 @@
 <div>
+<p>
+<h3>🤖 Estagiária em programação RPA (faço robôs rs)</h3>
+</p>
+<hr>
+<img src="img/olivia-octocat.png" height="200cm">
+</div>
+
+<div>
   <a href="https://github.com/adnaolivia/">
-  <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia&layout=compact&langs_count=7&theme=date_night"/></p>
-  <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=adnaolivia&theme=dark&show_icons=true"/></p>-->
+  <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaolivia&layout=compact&langs_count=7&theme=date_night"/>
+  <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adnaolivia&theme=dark&show_icons=true"/></p> -->
 </div>
   <br>
 <div>
