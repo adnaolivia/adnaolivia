@@ -2,7 +2,6 @@
 <p>
 <h3>🤖 Estagiária em programação RPA (faço robôs rs)</h3>
 </p>
-<hr>
 <img src="img/olivia-octocat.png" height="200cm">
 </div>
 
