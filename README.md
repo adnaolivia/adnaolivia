@@ -1,6 +1,6 @@
 <div>
 <p>
-<h3>🤖 Estagiária em programação RPA (faço robôs)</h3>
+<h3>🤖 Programação RPA (faço robôs) e Análise de dados (fazer planilha com python)🐍</h3>
 </p>
 <img src="img/olivia-octocat.png" height="200cm">
 </div>
