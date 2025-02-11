@@ -1,7 +1,4 @@
 <div>
-<p>
-<h3>🤖🐍</h3>
-</p>
 <img src="img/olivia-octocat.png" height="200cm">
 </div>
 
